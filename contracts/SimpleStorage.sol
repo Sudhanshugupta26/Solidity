@@ -22,7 +22,7 @@ contract SimpleStorage{
     Person public mybrother = Person(21,"Tushar");
     // Person public mybrother = Person({favNum:21,name:"Tushar"});
 
-    function store(uint _favouriteNumber) public {
+    function store(uint _favouriteNumber) public virtual {
         myFavouriteNumber = _favouriteNumber;
     }
 

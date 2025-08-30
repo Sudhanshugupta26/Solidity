@@ -124,7 +124,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SimpleStorage.sol": "SimpleStorage"
+			"contracts/Override.sol": "Override"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -138,6 +138,14 @@
 		"remappings": []
 	},
 	"sources": {
+		"contracts/Override.sol": {
+			"keccak256": "0xa657506f2841a5ed465f25bab7cbfbc7b43ba3573ce992679d1cf5987eef5a35",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d4c558fde61d4499cc384bafe120bf6ecb9b3f17ecfd0cb18724ef7c4b0d32bd",
+				"dweb:/ipfs/QmdGcyfSbxYC5wrKMnB1my5mKdgfeUwHj4fauGQEBLU9eB"
+			]
+		},
 		"contracts/SimpleStorage.sol": {
 			"keccak256": "0x5969efb9d1b69c1ed37684d70e0eae6776d0af2c16cd6cae198716f79cd38cab",
 			"license": "MIT",
