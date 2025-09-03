@@ -15,7 +15,7 @@ You can clone this entire repository directly into Remix to compile, deploy, and
 **Prerequisites:**
 *   A modern web browser (like Brave, Chrome or Firefox).
 *   An internet connection.
-*   A crypto wallet (like Metamask with ethereum testnet)
+*   A crypto wallet (like Metamask with ethereum testnet).
 
 **Steps:**
 
