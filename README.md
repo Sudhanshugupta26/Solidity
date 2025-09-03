@@ -95,8 +95,6 @@ Each contract in the `contracts/` folder is designed to teach a specific concept
 
 ---
 
----
-
 ### 5. `PriceConverter.sol`
 
 *   **Concepts:** Utility Libraries, Chainlink Price Feeds, ETH/USD Conversion, External Contract Interaction, Data Validation.
